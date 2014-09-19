@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B092BF7019C67BF500F17D49 /* Persort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B092BF6F19C67BF500F17D49 /* Persort.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		B01B7D8219B569E7007D6AA6 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		B01B7D8419B569E7007D6AA6 /* Learn C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Learn C++"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B092BF6F19C67BF500F17D49 /* Persort.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Persort.cpp; path = Ch10/Persort.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +57,7 @@
 		B01B7D8619B569E7007D6AA6 /* Learn C++ */ = {
 			isa = PBXGroup;
 			children = (
+				B092BF6F19C67BF500F17D49 /* Persort.cpp */,
 				B01B7D8519B569E7007D6AA6 /* Products */,
 			);
 			path = "Learn C++";
@@ -108,6 +114,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B092BF7019C67BF500F17D49 /* Persort.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

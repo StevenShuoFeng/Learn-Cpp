@@ -40,7 +40,7 @@ int main()
    bsort(persPtr, n);             //sort pointers
 
    cout << "\nSorted list:";
-   for(j=0; j<n; j++)             //print sorted list
+   for(int j=0; j<n; j++)             //print sorted list
       { persPtr[j]->printName(); }
    cout << endl;
    return 0;
