@@ -10,24 +10,36 @@
 	<string>Learn C++</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>A7F7629A69D70C86478CAEF687A60BD8EA31A286</key>
+		<string>https://github.com/StevenShuoFeng/Learn-Cpp.git</string>
 		<key>EE1BE711-7419-4AA8-B4E9-91B23CB8C686</key>
 		<string>https://github.com/StevenShuoFeng/Learn-Cpp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Learn C++.xcodeproj/project.xcworkspace</string>
+	<string>Learn C++.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>EE1BE711-7419-4AA8-B4E9-91B23CB8C686</key>
+		<key>A7F7629A69D70C86478CAEF687A60BD8EA31A286</key>
 		<string>../..</string>
+		<key>EE1BE711-7419-4AA8-B4E9-91B23CB8C686</key>
+		<string>../../../Learn-Cpp</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/StevenShuoFeng/Learn-Cpp.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>EE1BE711-7419-4AA8-B4E9-91B23CB8C686</string>
+	<string>A7F7629A69D70C86478CAEF687A60BD8EA31A286</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A7F7629A69D70C86478CAEF687A60BD8EA31A286</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cpp</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
